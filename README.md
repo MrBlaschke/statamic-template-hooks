@@ -17,5 +17,5 @@ public function template__whatever_hook_name()
 2. Run a hook in your template like this
 
 ```
-    {{ hook run="whatever_hook_name" }}
+{{ hook run="whatever_hook_name" }}
 ```
