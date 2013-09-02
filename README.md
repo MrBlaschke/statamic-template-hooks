@@ -1,5 +1,5 @@
-Template hooks
-==============
+Statamic Template hooks
+=======================
 Run a custom hook inside a template.
 
 	
